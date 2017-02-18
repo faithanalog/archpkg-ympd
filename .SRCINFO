@@ -18,7 +18,7 @@ pkgbase = ympd-git
 	provides = ympd
 	conflicts = ympd
 	backup = etc/default/ympd
-	source = git+https://github.com/notandy/ympd.git
+	source = git+https://github.com/unknownloner/ympd.git
 	sha1sums = SKIP
 
 pkgname = ympd-git

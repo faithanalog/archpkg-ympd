@@ -16,7 +16,7 @@ conflicts=("${_pkgname}")
 install="${_pkgname}.install"
 backup=('etc/default/ympd')
 source=(
-  "git+https://github.com/notandy/ympd.git"
+  "git+https://github.com/unknownloner/ympd.git"
 )
 sha1sums=('SKIP')
 
